@@ -1,0 +1,21 @@
+[submodule "basic_materials"]
+	path = basic_materials
+	url = git@github.com:snifi/basic_materials.git
+[submodule "blox"]
+	path = blox
+	url = git@github.com:snifi/blox.git
+[submodule "BobBlocks"]
+	path = BobBlocks
+	url = git@github.com:snifi/BobBlocks.git
+[submodule "cblocks"]
+	path = cblocks
+	url = git@github.com:snifi/cblocks.git
+[submodule "coloredwood"]
+	path = coloredwood
+	url = git@github.com:snifi/coloredwood.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = git@github.com:snifi/moreblocks.git
+[submodule "comboblock"]
+	path = comboblock
+	url = git@github.com:snifi/comboblock.git
